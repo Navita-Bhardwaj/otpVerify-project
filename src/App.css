@@ -1,0 +1,65 @@
+.container{
+    
+    height: 100%;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-content{
+    display: flex;
+    justify-content: center;
+    flex-direction:column ;
+}
+h2{
+    color: white;
+    font-size: 40px;
+    padding: 200px;
+}
+.h1-content{
+    text-align: center;
+    color: gray;
+    gap: 2px;
+    font-size: 30px;
+    margin-top: 120px;
+}
+.Bs{
+    display: flex;
+    justify-items: center;
+    text-align: center; 
+    border-radius: 50px; 
+    margin-top: 20px; 
+    width: fit-content;
+    margin-bottom: 20px;
+    margin-left: 120px;
+    background-color: white;
+    border-radius: 50%;     
+    padding: 10px;           
+    
+}
+.text-center{
+    margin-bottom: 10px;
+}
+.for-loop{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+
+}
+/* App.css */
+.Btn {
+    margin-top: 20px;       
+    background-color: rgba(62, 197, 35, 0.822); 
+    color: white;            
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 150px;
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  
+  .Btn span {
+    font-size: 15px;           /* Adjust font size if needed */
+  }
+  
